@@ -45,7 +45,7 @@ public class Base {
 	    public void tearDown() {
 	        // Close the browser and quit the driver
 	        if (driver != null) {
-	          driver.quit();
+	         // driver.quit();
 	        }
 	}
 	}
